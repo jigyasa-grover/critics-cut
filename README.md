@@ -1,2 +1,1 @@
-# critics-cut
-Critic’s Cut 🎞️  Multilingual Evaluation &amp; Safety of a Smart Movie Review Agent with ADK &amp; Gemini 2.0
+# 🎥 Critic’s Cut: Building a Safe, Multilingual Movie Review Agent Using Google ADK + Gemini 2.0
